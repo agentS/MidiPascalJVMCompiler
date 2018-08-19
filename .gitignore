@@ -1,2 +1,10 @@
 *.class
 *.log
+.hg/
+.hgignore
+lib/
+MidiPascalCompiler.jar
+project/project/
+project/target/
+target/
+
